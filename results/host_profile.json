@@ -1,0 +1,9 @@
+{
+    "python_version": "3.13.6 (tags/v3.13.6:4e66535, Aug  6 2025, 14:36:00) [MSC v.1944 64 bit (AMD64)]",
+    "os_kernel": "Windows 11",
+    "architecture": "AMD64",
+    "processor": "AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD",
+    "logical_cores": 16,
+    "physical_cores": 16,
+    "cache_line_bytes": 64
+}

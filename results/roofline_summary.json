@@ -1,0 +1,5 @@
+{
+    "arithmetic_intensity_flops_per_byte": 0.125,
+    "regime": "Memory-Bandwidth Bound",
+    "notes": "Low arithmetic intensity indicates DRAM bandwidth limits performance."
+}
